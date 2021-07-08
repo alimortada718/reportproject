@@ -1,0 +1,30 @@
+.body {
+  text-align: center;
+}
+.button {
+  text-align: bottom;
+  vertical-align: end;
+}
+.all {
+  display: inline-block;
+  border: 1px solid black;
+}
+.input {
+  margin: 5px;
+  display: block;
+}
+#box {
+  background-color: grey;
+  margin: auto;
+  width: auto;
+  padding: auto;
+}
+#text {
+  height: 25px;
+  border-radius: 5px;
+  padding: 4px;
+  border: solid thin grey;
+}
+#thesign {
+  text-align: end;
+}
